@@ -1,0 +1,15 @@
+.layout {
+    height: 100vh;
+
+    .site-layout-content {
+        height: 80%;
+        padding: 24px;
+        background: #fff;
+    }
+
+    .ant-layout-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
